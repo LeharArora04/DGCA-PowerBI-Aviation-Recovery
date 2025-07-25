@@ -29,7 +29,7 @@ This repository contains a Power BI dashboard analyzing **international airline 
 ## 📄 Full Report
 
 You can view the detailed write-up and analysis in the Word document:  
-📎 [View Report (.docx)](DGCA Power BI Dashboard Project.docx)
+📎 [View Report (.docx)](DGCA%20Power%20BI%20Dashboard%20Project.docx)
 
 View PowerBi report here: 
 📎 [View Report (.pbix)](https://app.powerbi.com/links/f6hHZT_tZG?ctid=aa2e8cd3-d01f-4f96-92ce-1f4dd6e178e7&pbi_source=linkShare&bookmarkGuid=2726d5a0-7c41-4da4-94ba-5b60e71281a2)
